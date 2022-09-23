@@ -1,0 +1,29 @@
+.content-fixed {
+     width: 80%;
+     height: 100%;
+     left: 20%;
+     background-color: #ffffff;
+     position:fixed;
+     overflow:scroll;
+     overflow-x: hidden;
+}
+
+.boxed-message {
+     width: 40%;
+     padding:1.00em 1.00em;
+     color: grey;
+     background-color: white;
+     border: black 0.20em solid;
+}
+
+.boxed-experience {
+     width: 90%;
+     padding:0.25em 0.45em;
+     color: grey;
+     background-color: white;
+     border: black 0.20em solid;
+}
+
+.blocked-row {
+     display: inline-block;
+}
